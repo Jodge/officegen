@@ -55,7 +55,7 @@
     "prettify:all": "prettier --write \"{lib,examples,tests,plugins,test_files}/**/*.{jsx,js}\""
   },
   "dependencies": {
-    "archiver": "~3.0.0",
+    "archiver": "~5.0.2",
     "async": "^2.6.2",
     "fast-image-size": "^0.1.3",
     "jszip": "^3.2.1",
