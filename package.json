@@ -73,7 +73,7 @@
     "babel-eslint": "^10.0.1",
     "better-npm-run": "^0.1.1",
     "chai": "^4.2.0",
-    "commitizen": "^3.0.7",
+    "commitizen": "^4.2.3",
     "cz-conventional-changelog": "^2.1.0",
     "esdoc": "^1.1.0",
     "esdoc-brand-plugin": "^1.0.1",
