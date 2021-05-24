@@ -83,7 +83,7 @@
     "esdoc-integrate-test-plugin": "^1.0.0",
     "esdoc-lint-plugin": "^1.0.2",
     "esdoc-standard-plugin": "^1.0.0",
-    "eslint": "^5.16.0",
+    "eslint": "^7.27.0",
     "eslint-config-mocha": "^0.0.0",
 	"eslint-config-prettier": "^4.1.0",
     "eslint-config-standard": "^12.0.0",
